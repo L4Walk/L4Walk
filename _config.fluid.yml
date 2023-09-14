@@ -1004,23 +1004,30 @@ links:
   # 友链的成员项
   # Member item of page
   items:
+  #  - {
+  #    title: "Fluid Blog",
+  #    intro: "主题博客",
+  #    link: "https://hexo.fluid-dev.com/",
+  #    avatar: "/img/favicon.png"
+  #  }
+  #  - {
+  #    title: "Fluid Docs",
+  #    intro: "主题使用指南",
+  #    link: "https://hexo.fluid-dev.com/docs/",
+  #    avatar: "/img/favicon.png"
+  #  }
+  #  - {
+  #    title: "Fluid Repo",
+  #    intro: "主题 GitHub 仓库",
+  #    link: "https://github.com/fluid-dev/hexo-theme-fluid",
+  #    avatar: "/img/favicon.png"
+  #  }
+
     - {
-      title: "Fluid Blog",
-      intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
-      avatar: "/img/favicon.png"
-    }
-    - {
-      title: "Fluid Docs",
-      intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
-      avatar: "/img/favicon.png"
-    }
-    - {
-      title: "Fluid Repo",
-      intro: "主题 GitHub 仓库",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
-      avatar: "/img/favicon.png"
+      title: "蓝衫科技博客网站",
+      intro: "一个为用户分享资源的软件网站",
+      link: "https://www.bluelsqkj.com/blog",
+      avatar: "http://www.bluelskj.com/wp-content/uploads/2022/12/logo-e1670504093417.png"
     }
 
   # 当成员头像加载失败时，替换为指定图片
