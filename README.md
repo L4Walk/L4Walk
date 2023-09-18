@@ -5,7 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AIGC，导航站，Share Tech，Share Fun！
+- 🔭 I’m currently working on AIGC，[蓝衫科技导航站](https://www.bluelskj.com)
+
+
+Share Tech，Share Fun！
+
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me: email me L4Walk@chuheng.tech
 - 😄 Pronouns: L4Walk
@@ -14,7 +18,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L4Walk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on AIGC，导航站，Share Tech，Share Fun！ 
+🔭 I’m currently working on AIGC，
+[蓝衫科技导航站]（https://www.bluelskj.com)
+
+Share Tech，Share Fun！ 
 
 🌱 I’m currently learning NLP  
 
