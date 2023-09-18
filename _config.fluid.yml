@@ -423,7 +423,7 @@ footer:
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
     <script src="https://www.ljy-lu.space/script/footer.js"></script>
-    <a href="https://;jy-lu.space" target="_blank" rel="nofollow noopener"><span>L4Walk</span></a>
+    <a href="https://ljy-lu.space" target="_blank" rel="nofollow noopener"><span>L4Walk</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/L4Walk" target="_blank" rel="nofollow noopener"><span>Code</span></a>
   '
