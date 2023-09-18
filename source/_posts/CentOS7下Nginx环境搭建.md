@@ -62,9 +62,7 @@ cd nginx-1.24.0
 
 ./configure --with-http_stub_status_module --with-http_ssl_module
 
-make
-
-make install
+make && make install
 ```
 
 ### 2.4 创建软连链接
