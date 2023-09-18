@@ -3,6 +3,7 @@ title:  AI项目思路
 date:   2023/8/9 20:25:26
 tags:  [AI, 图像生成]
 categories: [AI, AI绘图]
+index_img: /img/AIGC.jpeg
 ---
 
 ## 风景人像生成器

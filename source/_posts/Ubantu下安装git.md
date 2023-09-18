@@ -7,6 +7,7 @@ tag:
     - Ubantu
 categories: 
     - [Linux, Ubantu]
+index_img: /img/ubantu.png
 ---
 
 # Ubantu下安装git

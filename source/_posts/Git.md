@@ -5,6 +5,7 @@ tags:
     - 常用命令
     - Git
 categories: Git
+index_img: /img/git.png
 ---
 
 # Git

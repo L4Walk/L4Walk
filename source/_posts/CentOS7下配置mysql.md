@@ -3,6 +3,7 @@ title: CentOS7下配置mysql
 date: 2023-09-17 16:38:43
 tags: [mysql, linux, centos]
 categorites: [linux, centos]
+index_img: /img/CentOS.png
 ---
 
 ## 一、下载mysql

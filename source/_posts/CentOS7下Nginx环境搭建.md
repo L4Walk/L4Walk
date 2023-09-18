@@ -3,6 +3,7 @@ title: CentOS7下Nginx环境
 date: 2023-09-17 14:17:16
 tags: [nginx, linux, centos]
 categorites: [linux, centos]
+index_img: /img/CentOS.png
 ---
 
 ## 一、插件安装

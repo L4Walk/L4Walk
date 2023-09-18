@@ -7,7 +7,7 @@ tags:
    - Linux
 categories: 
    - [Linux, HCE OS]
-
+index_img: /img/hceos.png
 ---
 
 # HCE OS 

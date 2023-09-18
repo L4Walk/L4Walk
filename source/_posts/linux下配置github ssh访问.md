@@ -7,6 +7,7 @@ tag:
 categories: 
     - [Git]
     - [Linux]
+index_img: /img/git.png
 ---
 
 # linux下配置github ssh访问

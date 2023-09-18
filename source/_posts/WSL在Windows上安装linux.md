@@ -7,6 +7,7 @@ tag:
     - WSL2
 categories: 
     - [Linux, WSL]
+index_img: /img/wsl2.png
 ---
 
 # WSL在Windows上安装linux

@@ -3,6 +3,7 @@ title: CentOS7解决GCC相关问题
 date: 2023-09-17 17:14:46
 tags: [gcc, linux, centos]
 categorites: [linux, centos]
+index_img: /img/CentOS.png
 ---
 
 出现如下报错

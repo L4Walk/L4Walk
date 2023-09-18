@@ -3,6 +3,7 @@ title: CentOS7 下配置sqlite3
 date: 2023-09-17 15:08:22
 tags: [nginx, linux, centos]
 categorites: [linux, centos]
+index_img: /img/CentOS.png
 ---
 
 
