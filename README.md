@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on AIGC，导航站，Share Tech，Share Fun！ 
 
-🌱 I’m currently learning NLP  \
+🌱 I’m currently learning NLP  
 
-📫 How to reach me: email me L4Walk@chuheng.tech  \
+📫 How to reach me: email me L4Walk@chuheng.tech  
 
-😄 Pronouns: L4Walk  \
+😄 Pronouns: L4Walk  
