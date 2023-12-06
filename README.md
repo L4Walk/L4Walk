@@ -28,8 +28,8 @@ Share Tech，Share Fun！
 
 🌱 I’m currently learning NLP  
 
-📫 How to reach me: email me L4Walk@shirtbluetech.com  
+📫 How to reach me: email me L4Walk@chuheng.tech  
 
 😄 Pronouns: L4Walk  
 
-&layout=compact
+
