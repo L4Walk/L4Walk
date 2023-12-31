@@ -20,9 +20,6 @@ Share Tech，Share Fun！
 -->
 
 🔭 I’m currently working on AIGC，  
-[X-AIGC购卡平台](https://shop.blueshirt.cn)  
-[蓝衫科技导航站](https://www.bluelskj.com)  
-[蓝衫APP封装](https://blueios.com/)  
 
 Share Tech，Share Fun！ 
 
